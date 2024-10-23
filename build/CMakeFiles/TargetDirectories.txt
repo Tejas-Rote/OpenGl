@@ -1,0 +1,2 @@
+D:/VSCODE/OpenGl/C++/opengl-base-setup/build/CMakeFiles/ALL_BUILD.dir
+D:/VSCODE/OpenGl/C++/opengl-base-setup/build/CMakeFiles/ZERO_CHECK.dir

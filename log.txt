@@ -1,0 +1,2687 @@
+2024-10-23 15:22:26 [INFO] Window initialized: Test Window
+2024-10-23 15:24:24 [INFO] Window initialized: Test Window
+2024-10-23 15:25:01 [INFO] Window initialized: Test Window
+2024-10-23 19:39:41 [INFO] Window initialized: Test Window
+2024-10-23 19:41:30 [INFO] Window initialized: Test Window
+2024-10-23 19:48:53 [INFO] Window initialized: Test Window
+2024-10-23 20:00:46 [INFO] Application started
+2024-10-23 20:00:47 [INFO] Window initialized: OpenGL Triangle
+2024-10-23 20:00:47 [INFO] Triangle constructor called
+2024-10-23 20:00:47 [INFO] Creating triangle
+2024-10-23 20:00:47 [INFO] Shader compiled successfully
+2024-10-23 20:00:47 [INFO] Shader compiled successfully
+2024-10-23 20:00:47 [INFO] Shader program linked successfully
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:47 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:48 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:49 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:50 [INFO] Drawing triangle
+2024-10-23 20:00:52 [INFO] Drawing triangle
+2024-10-23 20:00:52 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Drawing triangle
+2024-10-23 20:00:53 [INFO] Application finished
+2024-10-23 20:00:53 [INFO] Triangle destructor called
+2024-10-23 20:02:13 [INFO] Application started
+2024-10-23 20:02:14 [INFO] Window initialized: OpenGL Triangle
+2024-10-23 20:02:14 [INFO] Triangle constructor called
+2024-10-23 20:02:14 [INFO] Creating triangle
+2024-10-23 20:02:14 [INFO] Shader compiled successfully
+2024-10-23 20:02:14 [INFO] Shader compiled successfully
+2024-10-23 20:02:14 [INFO] Shader program linked successfully
+2024-10-23 20:02:21 [INFO] Application finished
+2024-10-23 20:02:21 [INFO] Triangle destructor called
+2024-10-23 22:17:52 [INFO] Application started
+2024-10-23 22:17:53 [INFO] Window initialized: OpenGL Triangle
+2024-10-23 22:17:53 [INFO] Triangle constructor called
+2024-10-23 22:17:53 [INFO] Creating triangle
+2024-10-23 22:17:53 [INFO] Shader compiled successfully
+2024-10-23 22:17:53 [INFO] Shader compiled successfully
+2024-10-23 22:17:53 [INFO] Shader program linked successfully
+2024-10-23 22:17:53 [INFO] Circle createad
+2024-10-23 22:17:53 [INFO] Shader compiled successfully
+2024-10-23 22:17:53 [INFO] Shader compiled successfully
+2024-10-23 22:17:53 [INFO] Shader program linked successfully
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:53 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:54 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:55 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:56 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:57 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:58 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:17:59 [INFO] Application finished
+2024-10-23 22:17:59 [INFO] Circle destroyed
+2024-10-23 22:17:59 [INFO] Triangle destructor called
+2024-10-23 22:19:12 [INFO] Application started
+2024-10-23 22:19:12 [INFO] Window initialized: OpenGL Triangle
+2024-10-23 22:19:12 [INFO] Triangle constructor called
+2024-10-23 22:19:12 [INFO] Creating triangle
+2024-10-23 22:19:12 [INFO] Shader compiled successfully
+2024-10-23 22:19:12 [INFO] Shader compiled successfully
+2024-10-23 22:19:12 [INFO] Shader program linked successfully
+2024-10-23 22:19:12 [INFO] Circle createad
+2024-10-23 22:19:12 [INFO] Shader compiled successfully
+2024-10-23 22:19:12 [INFO] Shader compiled successfully
+2024-10-23 22:19:12 [INFO] Shader program linked successfully
+2024-10-23 22:19:12 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:12 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:12 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:12 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:12 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:12 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:12 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:12 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:12 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:12 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:12 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:12 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:12 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:12 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:12 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:12 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:12 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:12 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:12 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:12 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:12 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:12 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:12 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:12 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:12 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:12 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:13 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:14 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Drawing circle at (0.000000, 0.000000) with radius 0.500000
+2024-10-23 22:19:15 [INFO] Application finished
+2024-10-23 22:19:15 [INFO] Circle destroyed
+2024-10-23 22:19:15 [INFO] Triangle destructor called
+2024-10-23 22:24:58 [INFO] Application started
+2024-10-23 22:24:58 [INFO] Window initialized: OpenGL Triangle
+2024-10-23 22:24:58 [INFO] Triangle constructor called
+2024-10-23 22:24:58 [INFO] Creating triangle
+2024-10-23 22:24:58 [INFO] Shader compiled successfully
+2024-10-23 22:24:58 [INFO] Shader compiled successfully
+2024-10-23 22:24:58 [INFO] Shader program linked successfully
+2024-10-23 22:24:58 [INFO] Circle createad
+2024-10-23 22:24:58 [INFO] Shader compiled successfully
+2024-10-23 22:24:58 [INFO] Shader compiled successfully
+2024-10-23 22:24:58 [INFO] Shader program linked successfully
+2024-10-23 22:25:02 [INFO] Application finished
+2024-10-23 22:25:02 [INFO] Circle destroyed
+2024-10-23 22:25:02 [INFO] Triangle destructor called
+2024-10-23 22:25:15 [INFO] Application started
+2024-10-23 22:25:16 [INFO] Window initialized: OpenGL Triangle
+2024-10-23 22:25:16 [INFO] Triangle constructor called
+2024-10-23 22:25:16 [INFO] Creating triangle
+2024-10-23 22:25:16 [INFO] Shader compiled successfully
+2024-10-23 22:25:16 [INFO] Shader compiled successfully
+2024-10-23 22:25:16 [INFO] Shader program linked successfully
+2024-10-23 22:25:16 [INFO] Circle createad
+2024-10-23 22:25:16 [INFO] Shader compiled successfully
+2024-10-23 22:25:16 [INFO] Shader compiled successfully
+2024-10-23 22:25:16 [INFO] Shader program linked successfully
+2024-10-23 22:25:23 [INFO] Application finished
+2024-10-23 22:25:23 [INFO] Circle destroyed
+2024-10-23 22:25:23 [INFO] Triangle destructor called
+2024-10-23 22:25:52 [INFO] Application started
+2024-10-23 22:25:52 [INFO] Window initialized: OpenGL Triangle
+2024-10-23 22:25:52 [INFO] Triangle constructor called
+2024-10-23 22:25:52 [INFO] Creating triangle
+2024-10-23 22:25:52 [INFO] Shader compiled successfully
+2024-10-23 22:25:52 [INFO] Shader compiled successfully
+2024-10-23 22:25:52 [INFO] Shader program linked successfully
+2024-10-23 22:25:52 [INFO] Circle createad
+2024-10-23 22:25:52 [INFO] Shader compiled successfully
+2024-10-23 22:25:52 [INFO] Shader compiled successfully
+2024-10-23 22:25:52 [INFO] Shader program linked successfully
+2024-10-23 22:26:11 [INFO] Application started
+2024-10-23 22:26:12 [INFO] Window initialized: OpenGL Triangle
+2024-10-23 22:26:12 [INFO] Triangle constructor called
+2024-10-23 22:26:12 [INFO] Creating triangle
+2024-10-23 22:26:12 [INFO] Shader compiled successfully
+2024-10-23 22:26:12 [INFO] Shader compiled successfully
+2024-10-23 22:26:12 [INFO] Shader program linked successfully
+2024-10-23 22:26:12 [INFO] Circle createad
+2024-10-23 22:26:12 [INFO] Shader compiled successfully
+2024-10-23 22:26:12 [INFO] Shader compiled successfully
+2024-10-23 22:26:12 [INFO] Shader program linked successfully
+2024-10-23 22:26:16 [INFO] Application finished
+2024-10-23 22:26:16 [INFO] Circle destroyed
+2024-10-23 22:26:16 [INFO] Triangle destructor called
+2024-10-23 22:26:54 [INFO] Application started
+2024-10-23 22:26:55 [INFO] Window initialized: OpenGL Triangle
+2024-10-23 22:26:55 [INFO] Triangle constructor called
+2024-10-23 22:26:55 [INFO] Creating triangle
+2024-10-23 22:26:55 [INFO] Shader compiled successfully
+2024-10-23 22:26:55 [INFO] Shader compiled successfully
+2024-10-23 22:26:55 [INFO] Shader program linked successfully
+2024-10-23 22:26:55 [INFO] Circle createad
+2024-10-23 22:26:55 [INFO] Shader compiled successfully
+2024-10-23 22:26:55 [INFO] Shader compiled successfully
+2024-10-23 22:26:55 [INFO] Shader program linked successfully
+2024-10-23 22:26:56 [INFO] Application finished
+2024-10-23 22:26:56 [INFO] Circle destroyed
+2024-10-23 22:26:56 [INFO] Triangle destructor called
