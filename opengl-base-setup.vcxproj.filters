@@ -13,6 +13,15 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Resource Files\shaders">
+      <UniqueIdentifier>{2e1d859b-e229-4762-9e1d-4f515fdaf16e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\fonts">
+      <UniqueIdentifier>{c3b24195-68c6-4a56-9c42-c152a73cb47e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\utils">
+      <UniqueIdentifier>{12ce19c9-3f7c-450a-8c5d-33783fc5aa1c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="glad.c">
@@ -21,5 +30,95 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="axisRenderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FontManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="circle.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="circle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sphere.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="axisRendererV2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="colorUtils.cpp">
+      <Filter>Resource Files\utils</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="axisRenderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FontManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="window.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sphere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="axisRendererV2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="colorUtils.h">
+      <Filter>Resource Files\utils</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="axis_fragment_shader.glsl">
+      <Filter>Resource Files\shaders</Filter>
+    </None>
+    <None Include="axis_vertex_shader.glsl">
+      <Filter>Resource Files\shaders</Filter>
+    </None>
+    <None Include="text_fragment_shader.glsl">
+      <Filter>Resource Files\shaders</Filter>
+    </None>
+    <None Include="text_vertex_shader.glsl">
+      <Filter>Resource Files\shaders</Filter>
+    </None>
+    <None Include="circle_fragment_shader.glsl">
+      <Filter>Resource Files\shaders</Filter>
+    </None>
+    <None Include="circle_vertex_shader.glsl">
+      <Filter>Resource Files\shaders</Filter>
+    </None>
+    <None Include="sphere_fragment_shader.glsl">
+      <Filter>Resource Files\shaders</Filter>
+    </None>
+    <None Include="sphere_vertex_shader.glsl">
+      <Filter>Resource Files\shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="C:\Users\tejas\Downloads\Space_Mono(1)\SpaceMono-Bold.ttf">
+      <Filter>Resource Files\fonts</Filter>
+    </Font>
+    <Font Include="C:\Users\tejas\Downloads\Space_Mono(1)\SpaceMono-BoldItalic.ttf">
+      <Filter>Resource Files\fonts</Filter>
+    </Font>
+    <Font Include="C:\Users\tejas\Downloads\Space_Mono(1)\SpaceMono-Italic.ttf">
+      <Filter>Resource Files\fonts</Filter>
+    </Font>
+    <Font Include="C:\Users\tejas\Downloads\Space_Mono(1)\SpaceMono-Regular.ttf">
+      <Filter>Resource Files\fonts</Filter>
+    </Font>
   </ItemGroup>
 </Project>

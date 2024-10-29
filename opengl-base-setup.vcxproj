@@ -24,6 +24,7 @@
     <ProjectGuid>{6e041809-1b2b-4666-a83d-d0f5ad551bbf}</ProjectGuid>
     <RootNamespace>openglbasesetup</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>mathanim</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -84,11 +85,13 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>D:\VSCODE\MathSims\c++ Mathnim\libraries\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalDependencies>glfw3.lib;opengl32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalDependencies>glfw3.lib;opengl32.lib;freetype.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>D:\VSCODE\MathSims\c++ Mathnim\libraries\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
@@ -113,11 +116,13 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>D:\VSCODE\MathSims\c++ Mathnim\libraries\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalDependencies>glfw3.lib;opengl32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalDependencies>glfw3.lib;opengl32.lib;freetype.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>D:\VSCODE\MathSims\c++ Mathnim\libraries\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
@@ -137,8 +142,42 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="axisRenderer.cpp" />
+    <ClCompile Include="axisRendererV2.cpp" />
+    <ClCompile Include="circle.cpp" />
+    <ClCompile Include="circle.h" />
+    <ClCompile Include="colorUtils.cpp" />
+    <ClCompile Include="FontManager.cpp" />
     <ClCompile Include="glad.c" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="shader.cpp" />
+    <ClCompile Include="sphere.cpp" />
+    <ClCompile Include="window.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="axisRenderer.h" />
+    <ClInclude Include="axisRendererV2.h" />
+    <ClInclude Include="colorUtils.h" />
+    <ClInclude Include="FontManager.h" />
+    <ClInclude Include="shader.h" />
+    <ClInclude Include="sphere.h" />
+    <ClInclude Include="window.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="axis_fragment_shader.glsl" />
+    <None Include="axis_vertex_shader.glsl" />
+    <None Include="circle_fragment_shader.glsl" />
+    <None Include="circle_vertex_shader.glsl" />
+    <None Include="sphere_fragment_shader.glsl" />
+    <None Include="sphere_vertex_shader.glsl" />
+    <None Include="text_fragment_shader.glsl" />
+    <None Include="text_vertex_shader.glsl" />
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="C:\Users\tejas\Downloads\Space_Mono(1)\SpaceMono-Bold.ttf" />
+    <Font Include="C:\Users\tejas\Downloads\Space_Mono(1)\SpaceMono-BoldItalic.ttf" />
+    <Font Include="C:\Users\tejas\Downloads\Space_Mono(1)\SpaceMono-Italic.ttf" />
+    <Font Include="C:\Users\tejas\Downloads\Space_Mono(1)\SpaceMono-Regular.ttf" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
