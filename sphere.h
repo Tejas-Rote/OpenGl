@@ -18,7 +18,7 @@ public:
 	~SphereRenderer();
 
 	// Render the sphere
-	void render(Shader& shader, const glm::mat4& transform) const;
+	void render(Shader& shader, const glm::mat4& model) const;
 };
 
 #endif // SPHERE_RENDERER_H

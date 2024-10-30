@@ -175,9 +175,9 @@ SphereRenderer::~SphereRenderer() {
 	glDeleteBuffers(1, &VBO);
 }
 
-void SphereRenderer::render(Shader& shader, const glm::mat4& transform) const {
+void SphereRenderer::render(Shader& shader, const glm::mat4& model) const {
 	shader.use();
-	shader.setMat4("transform", transform);
+	shader.setMat4("model", model);
 
 	glBindVertexArray(VAO);
 

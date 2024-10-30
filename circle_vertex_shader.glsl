@@ -1,12 +1,15 @@
 #version 330 core
-layout(location = 0) in vec3 position; // <vec3 position>
-layout(location = 1) in vec3 color; // <vec3 color>
+layout(location = 0) in vec3 position; // Vertex position
+layout(location = 1) in vec3 color;    // Vertex color
 
-out vec3 vertexColor;
+out vec3 vertexColor; // Output color to the fragment shader
 
-uniform mat4 transform;
+uniform mat4 model;   // Model matrix
+uniform mat4 view;    // View matrix
+uniform mat4 projection; // Projection matrix
 
 void main() {
-    gl_Position = transform * vec4(position, 1.0); // Transform position
-    vertexColor = color; // Pass color to fragment shader
+    // Transform the vertex position
+    gl_Position = projection * view * model * vec4(position, 1.0);
+    vertexColor = color; // Pass the vertex color to the fragment shader
 }

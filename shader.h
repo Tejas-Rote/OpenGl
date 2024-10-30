@@ -1,29 +1,31 @@
 #ifndef SHADER_H
 #define SHADER_H
 
-#include <glad/glad.h>
+#include <glad/glad.h> // Include glad for OpenGL function pointers
+#include <glm/glm.hpp> // Include GLM for math operations
 #include <string>
-#include <glm/glm.hpp>
 
 class Shader {
 public:
+	// Shader Program ID
 	GLuint ID;
 
-	// Constructor that builds the shader program from two source paths
+	// Constructor that builds the shader from the given vertex and fragment shader paths
 	Shader(const char* vertexPath, const char* fragmentPath);
 
-	// Activate the shader
+	// Use the shader program
 	void use() const;
 
-	// Utility function to set a 3D vector (vec3) in the shader
-	void setVec3(const std::string& name, const glm::vec3& vec) const;
-
-	// Utility function to set a 4x4 matrix in the shader
-	void setMat4(const std::string& name, const glm::mat4& mat) const;
+	// Uniform utility functions
+	void setBool(const std::string& name, bool value) const; // Set boolean uniform
+	void setInt(const std::string& name, int value) const;   // Set integer uniform
+	void setFloat(const std::string& name, float value) const; // Set float uniform
+	void setVec3(const std::string& name, const glm::vec3& value) const; // Set vec3 uniform
+	void setMat4(const std::string& name, const glm::mat4& mat) const; // Set mat4 uniform
 
 private:
-	// Check for shader compile/link errors
+	// Utility function to check for shader compilation/linking errors
 	void checkCompileErrors(GLuint shader, const std::string& type);
 };
 
-#endif
+#endif // SHADER_H

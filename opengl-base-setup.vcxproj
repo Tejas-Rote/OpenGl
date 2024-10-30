@@ -144,11 +144,13 @@
   <ItemGroup>
     <ClCompile Include="axisRenderer.cpp" />
     <ClCompile Include="axisRendererV2.cpp" />
+    <ClCompile Include="AxisRendererV3.cpp" />
     <ClCompile Include="circle.cpp" />
     <ClCompile Include="circle.h" />
     <ClCompile Include="colorUtils.cpp" />
     <ClCompile Include="FontManager.cpp" />
     <ClCompile Include="glad.c" />
+    <ClCompile Include="line.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="shader.cpp" />
     <ClCompile Include="sphere.cpp" />
@@ -157,8 +159,10 @@
   <ItemGroup>
     <ClInclude Include="axisRenderer.h" />
     <ClInclude Include="axisRendererV2.h" />
+    <ClInclude Include="AxisRendererV3.h" />
     <ClInclude Include="colorUtils.h" />
     <ClInclude Include="FontManager.h" />
+    <ClInclude Include="line.h" />
     <ClInclude Include="shader.h" />
     <ClInclude Include="sphere.h" />
     <ClInclude Include="window.h" />
@@ -168,6 +172,8 @@
     <None Include="axis_vertex_shader.glsl" />
     <None Include="circle_fragment_shader.glsl" />
     <None Include="circle_vertex_shader.glsl" />
+    <None Include="line_fragment_shader.glsl" />
+    <None Include="line_vertex_shader.glsl" />
     <None Include="sphere_fragment_shader.glsl" />
     <None Include="sphere_vertex_shader.glsl" />
     <None Include="text_fragment_shader.glsl" />
